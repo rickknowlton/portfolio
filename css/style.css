@@ -1,0 +1,47 @@
+
+
+body {
+  padding-top: 54px;
+  background: rgb(12, 12, 23);
+  font-family: 'Playfair Display', serif;
+
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+label {
+  color: white;
+}
+
+.card-text {
+  color: black;
+}
+
+.jumbotron {
+  height: 500px;
+  background: linear-gradient(217deg, rgba(0, 255, 153, 0.8), rgba(0, 255, 162, 0) 70.71%),
+    linear-gradient(127deg, rgba(0, 110, 255, 0.8), rgba(58, 24, 253, 0) 70.71%),
+    linear-gradient(336deg, rgba(0, 0, 255, .8), rgba(5, 5, 170, 0) 70.71%);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}

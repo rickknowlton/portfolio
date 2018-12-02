@@ -1,0 +1,25 @@
+{
+    "title": "Rick Knowlton",
+    "name": "portfolio-site",
+    "version": "4.1.1",
+    "description": "A multipurpose HTML website template built with Bootstrap",
+    "homepage": "https://rickknowlton.github.io/portfolio-site/",
+    "bugs": {
+        "url": "https://github.com/rickknowlton/portfolio-site/issues"
+    },
+    "license": "MIT",
+    "author": "Rick Knowlton",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rickknowlton/portfolio-site.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "font-awesome": "^4.7.0",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
+}
